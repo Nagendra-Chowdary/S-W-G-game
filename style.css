@@ -1,0 +1,35 @@
+     body{
+               display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                flex-direction: column;
+            }
+            .container{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: rgb(240, 232, 232);
+                height: 60vh;
+                width: 50vw;
+                border-radius: 23px;
+                font-family: sans-serif;
+                font-size: 25px;
+                flex-direction: column;
+                /* padding: 30%; */
+
+            }
+            .result{
+                color: red;
+            }
+            .headline{
+                margin-top: 45px;
+                color: orange;
+                background-color: black;
+                padding: 12px;
+                border-radius: 9px;
+            }
+            body{
+                font-size: larger;
+                font-family: sans-serif;
+            }
