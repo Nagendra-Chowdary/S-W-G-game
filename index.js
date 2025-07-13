@@ -3,7 +3,7 @@
 
 
 //SNAKE WATER AND GUN GAME
-let userInput=prompt("Choose your power(S(snake),W(water),G(Gun))");
+let userInput=prompt("Choose your power (in uppercase): S(snake),W(water),G(Gun)");
 let options=['S','G','W'];
 let ob={'S':"SNAKE",'W':"WATER",'G':"GUN"};
 let randOptionNum=Math.floor((Math.random()*3));
