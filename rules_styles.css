@@ -1,0 +1,11 @@
+ .container{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                /* height: 100vh; */
+                font-family: sans-serif;
+                font-size: larger;
+                line-height: 2;
+                flex-direction: column;
+                margin-bottom: 131px;
+            }
